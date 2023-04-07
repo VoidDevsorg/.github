@@ -34,7 +34,7 @@
      <td align="center"><a href="https://github.com/TeamDiscordlist">
         <img src="https://github.com/TeamDiscordlist.png?size=100" width="100px;" alt=""/>
         <br />
-        <sub><b>Discord List</b></sub></a><br />
+        <sub><b>Desion</b></sub></a><br />
      </td>
    </tr>
 </table>
