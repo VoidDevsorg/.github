@@ -39,7 +39,7 @@
    </tr>
 </table>
 
-### Technologies use
+### Technologies we use
    
 <img 
 src="https://skillicons.dev/icons?i=ts,js,java,cs,go,php,html,jquery,css,sass,bootstrap,tailwind,materialui,nodejs,express,graphql,sqlite,mysql,mongodb,prisma,firebase,webpack,react,nextjs,nestjs,gatsby,alpinejs,netlify,vercel,heroku&theme=dark"
