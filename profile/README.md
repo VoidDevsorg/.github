@@ -9,7 +9,7 @@
 - **[HelloAllegro](https://github.com/HelloAllegro)**
 - **[AreMineAPI](https://github.com/AreMineAPI)**
 - **[DiscordBio](https://github.com/DiscordBio)**
-- **[TeamDiscordlist](https://github.com/TeamDiscordlist)** (aka: Desion)
+- **[TeamDesion](https://github.com/TeamDesion)**
 
 ### Technologies we use
    
